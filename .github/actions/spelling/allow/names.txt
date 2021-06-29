@@ -1,3 +1,4 @@
-RICA
-website
 github
+RICA
+Ricktionary
+website
